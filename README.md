@@ -21,4 +21,4 @@
 
 ## Как запустить
 1. Установите зависимости: `pip install pandas numpy scikit-learn matplotlib`
-2. Запустите скрипт: `python main.py`
+2. Запустите скрипт: `python train1.py`
